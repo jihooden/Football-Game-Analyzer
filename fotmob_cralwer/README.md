@@ -1,6 +1,6 @@
 FotMob Stats Crawler
 
-크롤링하는거 : 
+크롤링하는거 :  
 점유율  
 xG  
 전체 슈팅 수  
